@@ -10,7 +10,7 @@ setup(
     name='twitterscraper',
     version='0.4.1',
     description='Tool for scraping Tweets',
-    url='https://github.com/'
+    url='https://github.com/NingPekin/twitterscraper'
     author=['Ahmet Taspinar', 'Lasse Schuirmann'],
     author_email='taspinar@gmail.com',
     license='MIT',
